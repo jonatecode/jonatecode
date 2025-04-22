@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi there 👋! I'm Jon Ng
+
+I studied Data Science at the University of Oregon
+
+You can visit my portfolio website here!
+
+### My Skills:
+
+Programming Skills:
+JavaScript, Python, C++
+
+Data Analysis:
+Pandas, Numpy, SciKitLearn, SPSS, Stata, Tableau
+
+
 
 <!--
 **jonatecode/jonatecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
